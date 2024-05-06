@@ -10,6 +10,10 @@ Durante a segunda Sprint o objetivo do grupo foi a criação de uma interface fu
 
 Segue vídeo do estado atual do projeto:
 
+
+https://github.com/User-Standart/api-1sem-2024/assets/65740833/e698cdf1-5951-441b-8f51-fedd620551c8
+
+
 ### 📊Métricas do Time
 
 O andamento das tarefas pode ser visto observando o gráfico do Burndown inserido abaixo.
