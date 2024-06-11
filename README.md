@@ -13,7 +13,8 @@ Segue vídeo do estado atual do projeto:
 
 
 
-https://github.com/User-Standart/api-1sem-2024/assets/65740833/f9ff8df1-ebec-45ca-8b5b-b9f0d63e88e7
+https://github.com/User-Standart/api-1sem-2024/assets/143021491/12c22631-1758-4a6e-a967-ac2fac8b680a
+
 
 
 
