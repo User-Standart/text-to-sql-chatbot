@@ -1,10 +1,13 @@
-# Sprint 3 - 06/05 até 26/05
-Durante a terceira Sprint o objetivo do grupo foi a adição de uma área para que o usuário possa trocar o banco de dados que está utilizando ,fazendo com que seja possivel que o mesmo usuario utilize o programa com varios bancos, além da adição de uma aba nova na interface para que o usuário possa fazer essa mudança, também foi adicionado um Modelo de Linguagem simples para efetuar a tradução dos queries e resposta do ususario com mais precisão. Para a criação dessas features foram utilizadas as tecnologias já delimitadas nesse GitHub, mais especificamente na Sprint 2 foi utilizado o Java e bibliotecas como Java Swing, Java SQL e Ollama4j, Ollama e MYSQL.
+# Sprint 4 - 27/05 até 16/06
+Durante a quarta Sprint o objetivo do grupo foi (...) 
+
+(texto da 3ª Sprint)
+a adição de uma área para que o usuário possa trocar o banco de dados que está utilizando ,fazendo com que seja possivel que o mesmo usuario utilize o programa com varios bancos, além da adição de uma aba nova na interface para que o usuário possa fazer essa mudança, também foi adicionado um Modelo de Linguagem simples para efetuar a tradução dos queries e resposta do ususario com mais precisão. Para a criação dessas features foram utilizadas as tecnologias já delimitadas nesse GitHub, mais especificamente na Sprint 2 foi utilizado o Java e bibliotecas como Java Swing, Java SQL e Ollama4j, Ollama e MYSQL.
+(texto da 3ª Sprint)
 
 ### 🎯Objetivos da Sprint
-1. Troca de Banco de Dados✔️
-2. Nova Interface✔️
-3. Tradução✔️
+1. Troca de LLM✔️
+2. Extração automática do Schema de Banco de dados✔️
 
 ### Entregas
 
@@ -12,8 +15,8 @@ Segue vídeo do estado atual do projeto:
 
 
 
+(--adicionar vídeo aqui--)
 
-https://github.com/User-Standart/api-1sem-2024/assets/143021491/12c22631-1758-4a6e-a967-ac2fac8b680a
 
 
 
@@ -22,4 +25,4 @@ https://github.com/User-Standart/api-1sem-2024/assets/143021491/12c22631-1758-4a
 
 O andamento das tarefas pode ser visto observando o gráfico do Burndown inserido abaixo.
 
-![BURNDOWN 333333](https://github.com/User-Standart/api-1sem-2024/assets/143470914/f6a9f5e5-657c-492d-be0a-df03b7def802)
+(--adicionar burndown aqui--)
