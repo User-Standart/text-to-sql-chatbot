@@ -4,10 +4,10 @@ A Chatbot (similar to GPT) that helps companies work with their databases. It us
 ### Sprint Deliveries 🎯
 | Sprint | Date | Status | Reports |
 |--------|------|--------|---------|
-| 01 | 04/14/2024 | Done |<a href="https://github.com/User-Standart/api-1sem-2024/blob/Sprint-1/README.md"> Sprint 01 </a>|
-| 02 | 05/05/2024 | Done |<a href="https://github.com/User-Standart/api-1sem-2024/tree/Sprint-2"> Sprint 02 </a> |
-| 03 | 05/26/2024 | Done |<a href="https://github.com/User-Standart/api-1sem-2024/blob/Sprint-3/README.md"> Sprint 03 </a> |
-| 04 | 06/16/2024 | Done |<a href="https://github.com/User-Standart/api-1sem-2024/tree/Sprint-4"> Sprint 04 </a> |
+| 01 | 04/14/2024 | Done |<a href="https://github.com/User-Standart/text-to-sql-chatbot/blob/Sprint-1/README.md"> Sprint 01 </a>|
+| 02 | 05/05/2024 | Done |<a href="https://github.com/User-Standart/text-to-sql-chatbot/tree/Sprint-2"> Sprint 02 </a> |
+| 03 | 05/26/2024 | Done |<a href="https://github.com/User-Standart/text-to-sql-chatbot/blob/Sprint-3/README.md"> Sprint 03 </a> |
+| 04 | 06/16/2024 | Done |<a href="https://github.com/User-Standart/text-to-sql-chatbot/tree/Sprint-4"> Sprint 04 </a> |
 
 
 ## Product Backlog
@@ -43,7 +43,7 @@ Java, Java Swing, MySQL, SQLCoder and Ollama.
 
 ## Tutorial
 
-If you are having trouble using the application, check out our <a href="https://github.com/User-Standart/api-1sem-2024/tree/Tutorial"> Tutorial</a>.
+If you are having trouble using the application, check out our <a href="https://github.com/User-Standart/text-to-sql-chatbot/tree/Tutorial"> Tutorial</a>.
 
 ## Team
 | Name | GitHub | LinkedIn |
